@@ -12,7 +12,6 @@ website:
       - href: index.qmd
         text: Home
   twitter-card:
-    image: "/imgs/ivg-datibenecomune.png"
     card-style: "summary_large_image"
   open-graph:
     description: "A 44 anni dall'approvazione della legge sull'aborto, i dati sulla sua applicazione non sono aperti, correnti e riusabili"
