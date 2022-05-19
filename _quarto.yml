@@ -13,6 +13,7 @@ website:
         text: Home
   twitter-card:
     card-style: "summary_large_image"
+    image: "https://aborruso.github.io/ivg-datibenecomune/imgs/ivg-datibenecomune.png"
   open-graph:
     description: "A 44 anni dall'approvazione della legge sull'aborto, i dati sulla sua applicazione non sono aperti, correnti e riusabili"
 
