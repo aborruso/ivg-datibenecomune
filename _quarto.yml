@@ -5,12 +5,12 @@ project:
 website:
   page-footer: "[#datiBeneComune](https://www.datibenecomune.it/)"
   navbar:
+    search: false
     logo: "imgs/logo.png"
     background: primary
     left:
       - href: index.qmd
         text: Home
-    search: false
   twitter-card:
     image: "/imgs/ivg-datibenecomune.png"
     card-style: "summary_large_image"
