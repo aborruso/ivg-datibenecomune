@@ -4,8 +4,8 @@ project:
 
 website:
   page-footer: "[#datiBeneComune](https://www.datibenecomune.it/)"
+  search: false
   navbar:
-    search: false
     logo: "imgs/logo.png"
     background: primary
     left:
